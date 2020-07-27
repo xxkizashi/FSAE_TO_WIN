@@ -18,4 +18,4 @@
 何か修正点，改善点があればpull requestしてください．
 
 ## Author
-[Twitter](https://twitter.com/KFZ1S_RT)
+[Twitter](https://twitter.com/xxKFZ1S)
