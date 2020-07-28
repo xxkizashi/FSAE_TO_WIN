@@ -24,7 +24,7 @@
 
 ## MATLAB/Simulink
 - [MATLAB/Simulink チュートリアル](https://jp.mathworks.com/support/learn-with-matlab-tutorials.html)  
-    MATLAB/Simulinkを使ったことが無いのであれば，まずはチュートリアルから．
+    MATLAB/Simulinkを使ったことが無いのであれば，まずはチュートリアルから
 - [Learn How to Use MATLAB and Simulink for Student Projects](https://jp.mathworks.com/academia/student-competitions/tutorials-videos.html)  
     学生フォーミュラなどのプロジェクトへの応用例を動画で解説
 - [MATLAB/Simulink Racing Lounge](https://blogs.mathworks.com/racing-lounge/)  
@@ -43,7 +43,7 @@
 ## Youtube
 - [StudentFormulaJapan](https://www.youtube.com/user/StudentFormulaJapan)  
     デザインファイナルの動画は特に勉強になる．
-- [CFD insights](https://www.youtube.com/channel/UC7HbiTAeLdWyJ_6FYOwmTww)
+- [CFD insights](https://www.youtube.com/channel/UC7HbiTAeLdWyJ_6FYOwmTww)  
     空力の解説動画
 - [30 min Service of Stephane Lefebvre damaged Citroen WRC](https://youtu.be/UKBnPnYh8iw)  
     チームワーク抜群！
@@ -55,6 +55,7 @@
 - [エイドリアン ・ ニューウェイ - HOW TO BUILD A CAR](https://www.amazon.co.jp/dp/4779641608/ref=cm_sw_r_tw_dp_x_eveiFb4BNW2TQ)  
     東北大学工学分館には日本語版と英語版の両方ある．
 ## その他
-- [Student Formula Advent Calendar 2019](https://adventar.org/calendars/4588)
+- [Student Formula Advent Calendar 2019](https://adventar.org/calendars/4588)  
+    学生フォーミュラでの苦労話，OBからのアドバイスなどなど
 - [ホンダの学生フォーミュラ活動支援](https://www.honda.co.jp/philanthropy/support/f-sae.html)  
     佐藤琢磨選手のメッセージ動画は泣ける．
