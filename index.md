@@ -13,6 +13,7 @@
 - [安部正人 - 自動車の運動と制御](https://www.amazon.co.jp/dp/4501419202/ref=cm_sw_r_tw_dp_U_x_199REbJBJN2ZZ)  
     数式多め．制御工学を勉強してから読むとよい．
 - [野崎博路 - 自動車の限界コーナリングと制御](https://www.amazon.co.jp/dp/4501419709/ref=cm_sw_r_tw_dp_U_x_q-9REbAHCP9ZQ)
+
 ## タイヤ
 - [Formula SAE Tire Test Consortium](http://www.fsaettc.org/)
     - タイヤデータがまとめられている．タイヤに関する議論も行われている．
@@ -32,7 +33,7 @@
 - [Vehicle Dynamics Blockset Documentation](https://jp.mathworks.com/help/vdynblks/)  
     車両運動のモデル化とシミュレーションで使用するパッケージ
 - [MATLAB Plot Gallery](https://jp.mathworks.com/products/matlab/plot-gallery.html)  
-    データを可視化の際の参考に．
+    データ可視化の際の参考に．
 - [何故、自動車のステア特性は基本的に弱アンダーなのか？検証してみた](https://qiita.com/Fuminori_Souma/items/9e0bc9a92515cfffeda1)
 
 ## 論文を探す
@@ -54,6 +55,7 @@
 - [ゆとりのレースエンジニアさん - note](https://note.com/h_theta)
 - [エイドリアン ・ ニューウェイ - HOW TO BUILD A CAR](https://www.amazon.co.jp/dp/4779641608/ref=cm_sw_r_tw_dp_x_eveiFb4BNW2TQ)  
     東北大学工学分館には日本語版と英語版の両方ある．
+
 ## その他
 - [Student Formula Advent Calendar 2019](https://adventar.org/calendars/4588)  
     学生フォーミュラでの苦労話，OBからのアドバイスなどなど
