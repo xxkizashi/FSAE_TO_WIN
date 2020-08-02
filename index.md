@@ -10,7 +10,7 @@
 - [PDCAサイクル](https://ja.wikipedia.org/wiki/PDCA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB)  
     Plan・Do・Check・Act
 - V字開発プロセス  
-    画像は [学生フォーミュラ日本大会2016審査公表 (PDF)](https://www.jsae.or.jp/formula/jp/student_formula/14th_result/docu/SAE_2016_03.pdf) より引用
+    画像は [学生フォーミュラ日本大会2016審査講評 (PDF)](https://www.jsae.or.jp/formula/jp/student_formula/14th_result/docu/SAE_2016_03.pdf) より引用
     ![v-model](https://github.com/xxkizashi/FSAE_TO_WIN/blob/master/fig/v-model.PNG "v")
 
 ## 大会運営
@@ -73,7 +73,7 @@
 - [Kenichi Kono - Engineer Life in F1](https://www.f1engineer-jp.com/)
 - [ゆとりのレースエンジニア - note](https://note.com/h_theta)
 - [エイドリアン ・ ニューウェイ - HOW TO BUILD A CAR](https://www.amazon.co.jp/dp/4779641608/ref=cm_sw_r_tw_dp_x_eveiFb4BNW2TQ)  
-    東北大学工学分館には日本語版と英語版の両方ある．
+    東北大学附属図書館工学分館には日本語版と英語版の両方ある．
 
 ## その他
 - [ホンダの学生フォーミュラ活動支援](https://www.honda.co.jp/philanthropy/support/f-sae.html)  
