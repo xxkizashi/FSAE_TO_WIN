@@ -11,7 +11,7 @@
     Plan・Do・Check・Act
 - V字開発プロセス  
     画像は [学生フォーミュラ日本大会2016審査講評 (PDF)](https://www.jsae.or.jp/formula/jp/student_formula/14th_result/docu/SAE_2016_03.pdf) より引用
-    ![v-model](https://github.com/xxkizashi/FSAE_TO_WIN/blob/master/fig/v-model.PNG)
+    ![v-model](https://github.com/xxkizashi/FSAE_TO_WIN/blob/master/fig/v-model.png)
 
 ## 大会運営
 - [学生フォーミュラ公式サイト](https://www.jsae.or.jp/formula/jp/)
