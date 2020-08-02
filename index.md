@@ -10,8 +10,8 @@
 - [PDCAサイクル](https://ja.wikipedia.org/wiki/PDCA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB)  
     Plan・Do・Check・Act
 - V字開発プロセス  
-    画像は [学生フォーミュラ日本大会2016審査講評 (PDF)](https://www.jsae.or.jp/formula/jp/student_formula/14th_result/docu/SAE_2016_03.pdf) より引用
-    ![v-model](/img/v-model.png)
+    画像は [学生フォーミュラ日本大会2016審査講評 (PDF)](https://www.jsae.or.jp/formula/jp/student_formula/14th_result/docu/SAE_2016_03.pdf) より引用  
+    ![v_model](/img/v_model.PNG)
 
 ## 大会運営
 - [学生フォーミュラ公式サイト](https://www.jsae.or.jp/formula/jp/)
