@@ -67,7 +67,7 @@
     チームワーク抜群！
 - [AMZ - Driverless 2019 Season End](https://youtu.be/SAcn6X0amk4)  
     自動運転面白そう！
-- [Hirofumi Yamaguchi - 学生フォーミュラ日本最速車両](https://youtu.be/I-NCH8ct24U)  
+- [Hirofumi Yamaguchi - 学生フォーミュラ日本最速車両](https://youtu.be/rmwHKfSambo)  
     2019年大会で優勝した名古屋工業大学のオンボード映像
 - [ギャオスタジオ](https://www.youtube.com/channel/UCDhB4SqV0MZmGggtIpAgFSQ)  
     2019年大会のスラローム比較
