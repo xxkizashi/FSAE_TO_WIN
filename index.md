@@ -58,7 +58,7 @@
     論文を探すなら基本的にこれ．
 - [本田技術研究所 論文サイト](https://www.hondarandd.jp/?lang=jp)
 
-## Youtube
+## YouTube
 - [StudentFormulaJapan](https://www.youtube.com/user/StudentFormulaJapan)  
     デザインファイナルの動画は特に勉強になる．
 - [CFD insights](https://www.youtube.com/channel/UC7HbiTAeLdWyJ_6FYOwmTww)  
@@ -67,7 +67,12 @@
     チームワーク抜群！
 - [AMZ - Driverless 2019 Season End](https://youtu.be/SAcn6X0amk4)  
     自動運転面白そう！
-- [AMZ - World Record! 0-100kph in 1.513 seconds](https://youtu.be/I-NCH8ct24U)
+- [Hirofumi Yamaguchi - 学生フォーミュラ日本最速車両](https://youtu.be/I-NCH8ct24U)  
+    2019年大会で優勝した名古屋工業大学のオンボード映像
+- [ギャオスタジオ](https://www.youtube.com/channel/UCDhB4SqV0MZmGggtIpAgFSQ)  
+    2019年大会のスラローム比較
+- [VPA FSAE](https://www.youtube.com/channel/UCzL47WHtVIreRdS_dWyDMGw)  
+    学生フォーミュラの運動性能についての考察
 
 ## エンジニア人生
 - [Kenichi Kono - Engineer Life in F1](https://www.f1engineer-jp.com/)
