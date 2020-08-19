@@ -25,6 +25,8 @@
     ダンパー・車両運動力学の解説
 - [EmperorD - note](https://note.com/emperor_d)  
     現役レーシングエンジニアの方による車両セットアップ方法などの解説
+- [自動車技術会 - 自動車開発・製作ガイド](https://tech.jsae.or.jp/hanbai/html/detail/j2008-31.html)  
+    青本と呼ばれる学生フォーミュラのバイブル．
 - [安部正人 - 自動車の運動と制御](https://www.amazon.co.jp/dp/4501419202/ref=cm_sw_r_tw_dp_U_x_199REbJBJN2ZZ)  
     数式多め．制御工学を勉強してから読むとよい．
 - [野崎博路 - 自動車の限界コーナリングと制御](https://www.amazon.co.jp/dp/4501419709/ref=cm_sw_r_tw_dp_U_x_q-9REbAHCP9ZQ)
@@ -53,14 +55,14 @@
     データ可視化の際の参考に．
 - [何故、自動車のステア特性は基本的に弱アンダーなのか？検証してみた](https://qiita.com/Fuminori_Souma/items/9e0bc9a92515cfffeda1)
 
-## 論文を探す
+## 論文
 - [Google Scholar](https://scholar.google.co.jp/)  
     論文を探すなら基本的にこれ．
 - [本田技術研究所 論文サイト](https://www.hondarandd.jp/?lang=jp)
 
 ## YouTube
 - [StudentFormulaJapan](https://www.youtube.com/user/StudentFormulaJapan)  
-    デザインファイナルの動画は特に勉強になる．
+    学生フォーミュラの公式YouTubeチャンネル．デザインファイナルの動画は特に勉強になる．
 - [CFD insights](https://www.youtube.com/channel/UC7HbiTAeLdWyJ_6FYOwmTww)  
     空力の解説動画
 - [30 min Service of Stephane Lefebvre damaged Citroen WRC](https://youtu.be/UKBnPnYh8iw)  
@@ -73,6 +75,8 @@
     2019年大会のスラローム比較
 - [VPA FSAE](https://www.youtube.com/channel/UCzL47WHtVIreRdS_dWyDMGw)  
     学生フォーミュラの運動性能についての考察
+- [学生フォーミュラ × モータースポーツ・エンジニア](https://youtu.be/qIcz84KsosU)  
+    東京モーターショー2019でのシンポジウム
 
 ## エンジニア人生
 - [Kenichi Kono - Engineer Life in F1](https://www.f1engineer-jp.com/)
