@@ -38,9 +38,11 @@
     - タイヤデータがまとめられている．タイヤに関する議論も行われている．
     - Bill Cobbさん（元GMのエンジニア）の投稿を中心に読むとよい．
 
-## 電気回路
+## 電装系
+- [学生フォーミュラEV オンラインセミナー](https://www.jsae.or.jp/form/?id=27)  
+    「学生フォーミュラ EV車検と注意点について」の内容はチーム全員が把握しておこう．
 - [ノイズ対策.COM パターン幅・導体間隔設計基準書](https://www.noise-counterplan.com/article/14951064.html)  
-    プリント基板設計の際は必読．
+    プリント基板設計の際に役立つ．
 
 ## MATLAB/Simulink
 - [MATLAB/Simulink チュートリアル](https://jp.mathworks.com/support/learn-with-matlab-tutorials.html)  
