@@ -43,6 +43,12 @@
     「学生フォーミュラ EV車検と注意点について」の内容はチーム全員が把握しておこう．
 - [ノイズ対策.COM パターン幅・導体間隔設計基準書](https://www.noise-counterplan.com/article/14951064.html)  
     プリント基板設計の際に役立つ．
+- [かずいの雑記帳４ - 555を使ったオンディレイタイマの制作（その２）](http://kazuikazui.dreamlog.jp/archives/52463320.html)  
+    プリチャージ回路
+- [Greg's TouchDRO Blog - My first working TouchDRO Arduino tachometer. (Analog)](http://www.bettec.co/dro/)  
+    輪速センサが発生させた矩形波をアナログ信号に変換
+- [慶應義塾大学ロボット技術研究会 - NUCLEO-F446REの初期状態で使えないピンについて雑にまとめた](https://keiorogiken.wordpress.com/2018/12/08/nucleo-f446re/)
+- [電子工作専科 - Nucleoの電源系について](https://denshikousakusenka.jimdofree.com/%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89/stm32/nucleo%E3%81%AE%E9%9B%BB%E6%BA%90%E7%B3%BB/)
 
 ## MATLAB/Simulink
 - [MATLAB/Simulink チュートリアル](https://jp.mathworks.com/support/learn-with-matlab-tutorials.html)  
@@ -57,10 +63,12 @@
     データ可視化の際の参考に．
 - [何故、自動車のステア特性は基本的に弱アンダーなのか？検証してみた](https://qiita.com/Fuminori_Souma/items/9e0bc9a92515cfffeda1)
 
-## 論文
-- [Google Scholar](https://scholar.google.co.jp/)  
-    論文を探すなら基本的にこれ．
-- [本田技術研究所 論文サイト](https://www.hondarandd.jp/?lang=jp)
+## 成型技術
+- [HuckleBorn - FRPの成形方法](http://www.huckleborn.ne.jp/products/frp/howtofrp01.htm)
+- [Corvette California - 発泡シート製作](http://www.pac1.net/corvette/2007/11/post-110.html)
+
+## 空力
+- [ムーンクラフト STAFF BLOG - 空力研究所の秘密](https://www.mooncraft.jp/blogstaff/aerodynamic/)
 
 ## YouTube
 - [StudentFormulaJapan](https://www.youtube.com/user/StudentFormulaJapan)  
@@ -79,12 +87,19 @@
     学生フォーミュラの運動性能についての考察
 - [学生フォーミュラ × モータースポーツ・エンジニア](https://youtu.be/qIcz84KsosU)  
     東京モーターショー2019でのシンポジウム
+- [OG Racing - BSCI Seat Insert Kit](https://youtu.be/eRk9d9uiX14)  
+    シートの作り方
 
 ## エンジニア人生
 - [Kenichi Kono - Engineer Life in F1](https://www.f1engineer-jp.com/)
 - [ゆとりのレースエンジニア - note](https://note.com/h_theta)
 - [エイドリアン ・ ニューウェイ - HOW TO BUILD A CAR](https://www.amazon.co.jp/dp/4779641608/ref=cm_sw_r_tw_dp_x_eveiFb4BNW2TQ)  
     東北大学附属図書館工学分館には日本語版と英語版の両方ある．
+
+## 論文
+- [Google Scholar](https://scholar.google.co.jp/)  
+    論文を探すなら基本的にこれ．
+- [本田技術研究所 論文サイト](https://www.hondarandd.jp/?lang=jp)
 
 ## その他
 - [ホンダの学生フォーミュラ活動支援](https://www.honda.co.jp/philanthropy/support/f-sae.html)  
