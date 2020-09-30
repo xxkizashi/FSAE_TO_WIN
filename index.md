@@ -65,7 +65,7 @@
     データ可視化の際の参考に．
 - [何故、自動車のステア特性は基本的に弱アンダーなのか？検証してみた](https://qiita.com/Fuminori_Souma/items/9e0bc9a92515cfffeda1)
 
-## 成型技術
+## 成形技術
 - [HuckleBorn - FRPの成形方法](http://www.huckleborn.ne.jp/products/frp/howtofrp01.htm)
 - [Corvette California - 発泡シート製作](http://www.pac1.net/corvette/2007/11/post-110.html)
 
