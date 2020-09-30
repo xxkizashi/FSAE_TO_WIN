@@ -41,6 +41,8 @@
 ## 電装系
 - [学生フォーミュラEV オンラインセミナー](https://www.jsae.or.jp/form/?id=27)  
     「学生フォーミュラ EV車検と注意点について」の内容はチーム全員が把握しておこう．
+- [AKIRACING.COM - EAGLEの使い方](http://akiracing.com/2017/05/27/eagle_tutorial/)  
+    基板設計ソフトEAGLEの使い方が簡単にまとめられている．
 - [ノイズ対策.COM パターン幅・導体間隔設計基準書](https://www.noise-counterplan.com/article/14951064.html)  
     プリント基板設計の際に役立つ．
 - [かずいの雑記帳４ - 555を使ったオンディレイタイマの制作（その２）](http://kazuikazui.dreamlog.jp/archives/52463320.html)  
