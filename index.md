@@ -52,6 +52,17 @@
 - [慶應義塾大学ロボット技術研究会 - NUCLEO-F446REの初期状態で使えないピンについて雑にまとめた](https://keiorogiken.wordpress.com/2018/12/08/nucleo-f446re/)
 - [電子工作専科 - Nucleoの電源系について](https://denshikousakusenka.jimdofree.com/%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89/stm32/nucleo%E3%81%AE%E9%9B%BB%E6%BA%90%E7%B3%BB/)
 
+## 成形技術
+- [HuckleBorn - FRPの成形方法](http://www.huckleborn.ne.jp/products/frp/howtofrp01.htm)
+- [Corvette California - 発泡シート製作](http://www.pac1.net/corvette/2007/11/post-110.html)
+
+## 空力
+- [ムーンクラフト STAFF BLOG - 空力研究所の秘密](https://www.mooncraft.jp/blogstaff/aerodynamic/)
+
+## CAD
+- [GrabCAD](https://grabcad.com/library)  
+    無料でCADモデルをダウンロードできるサイト．世の中にある物は大体ある．
+
 ## MATLAB/Simulink
 - [MATLAB/Simulink チュートリアル](https://jp.mathworks.com/support/learn-with-matlab-tutorials.html)  
     MATLAB/Simulinkを使ったことが無いのであれば，まずはチュートリアルから
@@ -65,22 +76,11 @@
     データ可視化の際の参考に．
 - [何故、自動車のステア特性は基本的に弱アンダーなのか？検証してみた](https://qiita.com/Fuminori_Souma/items/9e0bc9a92515cfffeda1)
 
-## 成形技術
-- [HuckleBorn - FRPの成形方法](http://www.huckleborn.ne.jp/products/frp/howtofrp01.htm)
-- [Corvette California - 発泡シート製作](http://www.pac1.net/corvette/2007/11/post-110.html)
-
-## 空力
-- [ムーンクラフト STAFF BLOG - 空力研究所の秘密](https://www.mooncraft.jp/blogstaff/aerodynamic/)
-
 ## YouTube
 - [StudentFormulaJapan](https://www.youtube.com/user/StudentFormulaJapan)  
     学生フォーミュラの公式YouTubeチャンネル．デザインファイナルの動画は特に勉強になる．
 - [CFD insights](https://www.youtube.com/channel/UC7HbiTAeLdWyJ_6FYOwmTww)  
     空力の解説動画
-- [30 min Service of Stephane Lefebvre damaged Citroen WRC](https://youtu.be/UKBnPnYh8iw)  
-    チームワーク抜群！
-- [AMZ - Driverless 2019 Season End](https://youtu.be/SAcn6X0amk4)  
-    自動運転面白そう！
 - [Hirofumi Yamaguchi - 学生フォーミュラ日本最速車両](https://youtu.be/rmwHKfSambo)  
     2019年大会で優勝した名古屋工業大学のオンボード映像
 - [ギャオスタジオ](https://www.youtube.com/channel/UCDhB4SqV0MZmGggtIpAgFSQ)  
@@ -89,8 +89,13 @@
     学生フォーミュラの運動性能についての考察
 - [学生フォーミュラ × モータースポーツ・エンジニア](https://youtu.be/qIcz84KsosU)  
     東京モーターショー2019でのシンポジウム
+- [【学生向け】Simulinkによる簡易自動車モデリング](https://youtu.be/kCpgea63xpY)
 - [OG Racing - BSCI Seat Insert Kit](https://youtu.be/eRk9d9uiX14)  
     シートの作り方
+- [30 min Service of Stephane Lefebvre damaged Citroen WRC](https://youtu.be/UKBnPnYh8iw)  
+    チームワーク抜群！
+- [AMZ - Driverless 2019 Season End](https://youtu.be/SAcn6X0amk4)  
+    自動運転面白そう！
 
 ## エンジニア人生
 - [Kenichi Kono - Engineer Life in F1](https://www.f1engineer-jp.com/)
