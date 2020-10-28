@@ -66,10 +66,8 @@
 ## MATLAB/Simulink
 - [MATLAB/Simulink チュートリアル](https://jp.mathworks.com/support/learn-with-matlab-tutorials.html)  
     MATLAB/Simulinkを使ったことが無いのであれば，まずはチュートリアルから
-- [Learn How to Use MATLAB and Simulink for Student Projects](https://jp.mathworks.com/academia/student-competitions/tutorials-videos.html)  
-    学生フォーミュラなどのプロジェクトへの応用例を動画で解説
 - [MATLAB/Simulink Racing Lounge](https://blogs.mathworks.com/racing-lounge/)  
-    こちらは学生フォーミュラへの応用例をブログで解説
+    学生フォーミュラへの応用例をブログで解説
 - [Vehicle Dynamics Blockset Documentation](https://jp.mathworks.com/help/vdynblks/)  
     車両運動のモデル化とシミュレーションで使用するパッケージ
 - [MATLAB Plot Gallery](https://jp.mathworks.com/products/matlab/plot-gallery.html)  
@@ -89,7 +87,8 @@
     学生フォーミュラの運動性能についての考察
 - [学生フォーミュラ × モータースポーツ・エンジニア](https://youtu.be/qIcz84KsosU)  
     東京モーターショー2019でのシンポジウム
-- [【学生向け】Simulinkによる簡易自動車モデリング](https://youtu.be/kCpgea63xpY)
+- [【学生向け】Simulinkによる簡易自動車モデリング](https://youtu.be/kCpgea63xpY)  
+    MathWorksの方によるWebセミナー
 - [OG Racing - BSCI Seat Insert Kit](https://youtu.be/eRk9d9uiX14)  
     シートの作り方
 - [30 min Service of Stephane Lefebvre damaged Citroen WRC](https://youtu.be/UKBnPnYh8iw)  
