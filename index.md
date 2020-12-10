@@ -27,6 +27,8 @@
     現役レーシングエンジニアの方による車両セットアップ方法などの解説
 - [自動車技術会 - 自動車開発・製作ガイド](https://tech.jsae.or.jp/hanbai/html/detail/j2008-31.html)  
     青本と呼ばれる学生フォーミュラのバイブル．
+- [自動車技術会 - 電気自動車の開発](https://tech.jsae.or.jp/hanbai/html/detail/j2015-32.html)  
+    名古屋大学フォーミュラチームFEMの人がおすすめしてた．
 - [安部正人 - 自動車の運動と制御](https://www.amazon.co.jp/dp/4501419202/ref=cm_sw_r_tw_dp_U_x_199REbJBJN2ZZ)  
     数式多め．制御工学を勉強してから読むとよい．
 - [野崎博路 - 自動車の限界コーナリングと制御](https://www.amazon.co.jp/dp/4501419709/ref=cm_sw_r_tw_dp_U_x_q-9REbAHCP9ZQ)
@@ -112,7 +114,7 @@
 - [本田技術研究所 論文サイト](https://www.hondarandd.jp/?lang=jp)
 
 ## 失敗から学ぶ
-- [名工大人力飛行機研究会NIEWs - 試験飛行における事故について](http://blog.livedoor.jp/niews_nitech/archives/57302762.html)  
+- [名古屋工業大学人力飛行機研究会NIEWs - 試験飛行における事故について](http://blog.livedoor.jp/niews_nitech/archives/57302762.html)  
 - [Fire puts FSG team members in hospital](https://www.racetechmag.com/2016/08/fire-fsg-team-members-hospital/)  
     Formula Student Germany 2016の大会期間中にホテルでバッテリーが炎上した．
 - [AGH Racing Team - FS Spain 2015 Formula Student Electric Car crash](https://youtu.be/cj85PD5A-hU)  
