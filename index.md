@@ -38,7 +38,7 @@
     - タイヤデータがまとめられている．タイヤに関する議論も行われている．
     - Bill Cobbさん（元GMのエンジニア）の投稿を中心に読むとよい．
 
-## 電装系
+## 電装
 - [学生フォーミュラEV オンラインセミナー](https://www.jsae.or.jp/form/?id=27)  
     「学生フォーミュラ EV車検と注意点について」の内容はチーム全員が把握しておこう．
 - [AKIRACING.COM - EAGLEの使い方](http://akiracing.com/2017/05/27/eagle_tutorial/)  
@@ -55,9 +55,13 @@
 ## 成形技術
 - [HuckleBorn - FRPの成形方法](http://www.huckleborn.ne.jp/products/frp/howtofrp01.htm)
 - [Corvette California - 発泡シート製作](http://www.pac1.net/corvette/2007/11/post-110.html)
+- [OG Racing - BSCI Seat Insert Kit](https://youtu.be/eRk9d9uiX14)  
+    シートの作り方
 
 ## 空力
 - [ムーンクラフト STAFF BLOG - 空力研究所の秘密](https://www.mooncraft.jp/blogstaff/aerodynamic/)
+- [CFD insights](https://www.youtube.com/channel/UC7HbiTAeLdWyJ_6FYOwmTww)  
+    空力の解説動画
 
 ## CAD
 - [GrabCAD](https://grabcad.com/library)  
@@ -73,12 +77,12 @@
 - [MATLAB Plot Gallery](https://jp.mathworks.com/products/matlab/plot-gallery.html)  
     データ可視化の際の参考に．
 - [何故、自動車のステア特性は基本的に弱アンダーなのか？検証してみた](https://qiita.com/Fuminori_Souma/items/9e0bc9a92515cfffeda1)
+- [MATLAB Japan - Simulinkによる簡易自動車モデリング](https://youtu.be/kCpgea63xpY)  
+    MathWorksの方によるWebセミナー
 
-## YouTube
+## 動画
 - [StudentFormulaJapan](https://www.youtube.com/user/StudentFormulaJapan)  
     学生フォーミュラの公式YouTubeチャンネル．デザインファイナルの動画は特に勉強になる．
-- [CFD insights](https://www.youtube.com/channel/UC7HbiTAeLdWyJ_6FYOwmTww)  
-    空力の解説動画
 - [Hirofumi Yamaguchi - 学生フォーミュラ日本最速車両](https://youtu.be/rmwHKfSambo)  
     2019年大会で優勝した名古屋工業大学のオンボード映像
 - [ギャオスタジオ](https://www.youtube.com/channel/UCDhB4SqV0MZmGggtIpAgFSQ)  
@@ -87,18 +91,18 @@
     学生フォーミュラの運動性能についての考察
 - [学生フォーミュラ × モータースポーツ・エンジニア](https://youtu.be/qIcz84KsosU)  
     東京モーターショー2019でのシンポジウム
-- [【学生向け】Simulinkによる簡易自動車モデリング](https://youtu.be/kCpgea63xpY)  
-    MathWorksの方によるWebセミナー
-- [OG Racing - BSCI Seat Insert Kit](https://youtu.be/eRk9d9uiX14)  
-    シートの作り方
+- [AMZ - Driverless 2019 Season End](https://youtu.be/SAcn6X0amk4)  
+    自動運転面白そう．
 - [30 min Service of Stephane Lefebvre damaged Citroen WRC](https://youtu.be/UKBnPnYh8iw)  
     チームワーク抜群！
-- [AMZ - Driverless 2019 Season End](https://youtu.be/SAcn6X0amk4)  
-    自動運転面白そう！
+- [F1 - Max Verstappen Crashes On Way To Grid](https://youtu.be/k-HpHDpeF8E)  
+    こちらもチームワーク抜群！
 
 ## エンジニア人生
 - [Kenichi Kono - Engineer Life in F1](https://www.f1engineer-jp.com/)
 - [ゆとりのレースエンジニア - note](https://note.com/h_theta)
+- [わたぽん - WataponWorld@UK](http://watapon-f1.com/)  
+    イギリスの大学で学生フォーミュラに取組み，F1を目指していた方のブログ．[note](https://note.com/wataponf1)に移行したっぽい．
 - [エイドリアン ・ ニューウェイ - HOW TO BUILD A CAR](https://www.amazon.co.jp/dp/4779641608/ref=cm_sw_r_tw_dp_x_eveiFb4BNW2TQ)  
     東北大学附属図書館工学分館には日本語版と英語版の両方ある．
 
@@ -106,6 +110,12 @@
 - [Google Scholar](https://scholar.google.co.jp/)  
     論文を探すなら基本的にこれ．
 - [本田技術研究所 論文サイト](https://www.hondarandd.jp/?lang=jp)
+
+## 失敗から学ぶ
+- [名工大人力飛行機研究会NIEWs - 試験飛行における事故について](http://blog.livedoor.jp/niews_nitech/archives/57302762.html)  
+- [Fire puts FSG team members in hospital](https://www.racetechmag.com/2016/08/fire-fsg-team-members-hospital/)  
+    Formula Student Germany 2016の大会期間中にホテルでバッテリーが炎上した．
+- [AGH Racing Team - FS Spain 2015 Formula Student Electric Car crash](https://youtu.be/cj85PD5A-hU)  
 
 ## その他
 - [ホンダの学生フォーミュラ活動支援](https://www.honda.co.jp/philanthropy/support/f-sae.html)  
