@@ -124,5 +124,6 @@
     佐藤琢磨選手のメッセージ動画は泣ける．
 - [Student Formula Advent Calendar 2019](https://adventar.org/calendars/4588)  
     学生フォーミュラでの苦労話，OBからのアドバイスなどなど
+- [Student Formula Advent Calendar 2020](https://adventar.org/calendars/5465)  
 - [port F - Student/Japan](https://twitter.com/i/lists/1085108431470583813?s=20)  
     日本の学生フォーミュラチームや自動車部などのTwitterリスト
