@@ -110,7 +110,7 @@
 ## 論文・技報
 - [Google Scholar](https://scholar.google.co.jp/)  
     論文を探すなら基本的にこれ．
-- [本田技術研究所 論文サイト](https://www.hondarandd.jp/?lang=jp)
+- [本田技術研究所 - 論文サイト](https://www.hondarandd.jp/?lang=jp)
 - [マツダ - 技報](https://www.mazda.com/ja/innovation/technology/gihou/)
 - [ヤマハ発動機 - 技報](https://global.yamaha-motor.com/jp/design_technology/technical/)
 - [デンソー - テクニカルレビュー](https://www.denso.com/jp/ja/business/innovation/review/)
