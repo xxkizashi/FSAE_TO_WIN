@@ -42,7 +42,6 @@
 
 ## 電装
 - [学生フォーミュラEV オンラインセミナー](https://www.jsae.or.jp/form/?id=27)  
-    「学生フォーミュラ EV車検と注意点について」の内容はチーム全員が把握しておこう．
 - [AKIRACING.COM - EAGLEの使い方](http://akiracing.com/2017/05/27/eagle_tutorial/)  
     基板設計ソフトEAGLEの使い方が簡単にまとめられている．
 - [ノイズ対策.COM パターン幅・導体間隔設計基準書](https://www.noise-counterplan.com/article/14951064.html)  
@@ -108,10 +107,14 @@
 - [エイドリアン ・ ニューウェイ - HOW TO BUILD A CAR](https://www.amazon.co.jp/dp/4779641608/ref=cm_sw_r_tw_dp_x_eveiFb4BNW2TQ)  
     東北大学附属図書館工学分館には日本語版と英語版の両方ある．
 
-## 論文
+## 論文・技報
 - [Google Scholar](https://scholar.google.co.jp/)  
     論文を探すなら基本的にこれ．
 - [本田技術研究所 論文サイト](https://www.hondarandd.jp/?lang=jp)
+- [マツダ - 技報](https://www.mazda.com/ja/innovation/technology/gihou/)
+- [ヤマハ発動機 - 技報](https://global.yamaha-motor.com/jp/design_technology/technical/)
+- [デンソー - テクニカルレビュー](https://www.denso.com/jp/ja/business/innovation/review/)
+- [川崎重工 - 技報](https://www.khi.co.jp/rd/magazine/)
 
 ## 失敗から学ぶ
 - [名古屋工業大学人力飛行機研究会NIEWs - 試験飛行における事故について](http://blog.livedoor.jp/niews_nitech/archives/57302762.html)  
