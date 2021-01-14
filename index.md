@@ -1,7 +1,7 @@
 ## はじめに
 このサイトを作った背景は [こちら](https://github.com/xxkizashi/FSAE_TO_WIN#description) を参照してください．
 
-## 心構え
+## 大事な考え方
 - [5S](https://ja.wikipedia.org/wiki/5S)
     - 安全第一
     - 整理・整頓・清掃・清潔・躾
@@ -12,6 +12,8 @@
 - V字開発プロセス  
     画像は [学生フォーミュラ日本大会2016審査講評 (PDF)](https://www.jsae.or.jp/formula/jp/student_formula/14th_result/docu/SAE_2016_03.pdf) より引用  
     ![v_model](/img/v_model.PNG)
+- [JAXA - システムズエンジニアリングの基本的な考え方 (PDF)](https://ssl.tksc.jaxa.jp/isasse01/kanren/BDB/BDB06007BSEkihon.pdf)  
+    [システムズエンジニアリングとは「複雑なシステムを，目的通りにちゃんと動くように作るための方法論」である．](http://hiroono.com/ja/2021/01/01/thoughts_on_japanese_space_startups/) by NASA JPLの小野雅裕さん
 
 ## 大会運営
 - [学生フォーミュラ公式サイト](https://www.jsae.or.jp/formula/jp/)
