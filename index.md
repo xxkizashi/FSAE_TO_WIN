@@ -14,6 +14,7 @@
     ![v_model](/img/v_model.PNG)
 - [JAXA - システムズエンジニアリングの基本的な考え方 (PDF)](https://ssl.tksc.jaxa.jp/isasse01/kanren/BDB/BDB06007BSEkihon.pdf)  
     [システムズエンジニアリングとは「複雑なシステムを，目的通りにちゃんと動くように作るための方法論」である．](http://hiroono.com/ja/2021/01/01/thoughts_on_japanese_space_startups/) by NASA JPLの小野雅裕さん
+- [第31回アイデア対決・全国高等専門学校ロボットコンテスト2018 - 安全対策ガイド (PDF)](http://www.official-robocon.com/kosen/wordpress/wp-content/uploads/anzen_check_180601.pdf)
 
 ## 大会運営
 - [学生フォーミュラ公式サイト](https://www.jsae.or.jp/formula/jp/)
@@ -28,7 +29,7 @@
 - [EmperorD - note](https://note.com/emperor_d)  
     現役レーシングエンジニアの方による車両セットアップ方法などの解説
 - [自動車技術会 - 自動車開発・製作ガイド](https://tech.jsae.or.jp/hanbai/html/detail/j2008-31.html)  
-    青本と呼ばれる学生フォーミュラのバイブル．
+    青本と呼ばれる学生フォーミュラのバイブル．[講義動画](https://www.jsae.or.jp/formula/jp/SFJ/digital.php)が公開されている．
 - [自動車技術会 - 電気自動車の開発](https://tech.jsae.or.jp/hanbai/html/detail/j2015-32.html)  
     名古屋大学フォーミュラチームFEMの人がおすすめしてた．
 - [安部正人 - 自動車の運動と制御](https://www.amazon.co.jp/dp/4501419202/ref=cm_sw_r_tw_dp_U_x_199REbJBJN2ZZ)  
