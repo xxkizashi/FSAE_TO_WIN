@@ -67,6 +67,10 @@
 - [CFD insights](https://www.youtube.com/channel/UC7HbiTAeLdWyJ_6FYOwmTww)  
     空力の解説動画
 
+## ダンパー
+- [株式会社アネブル - ダンパー基礎講座](https://youtu.be/_SQ6Xx3rTSE)  
+    全日本学生フォーミュラ向け”ダンパー基礎講座”の動画
+
 ## CAD
 - [GrabCAD](https://grabcad.com/library)  
     無料でCADモデルをダウンロードできるサイト．世の中にある物は大体ある．
@@ -115,8 +119,10 @@
     論文を探すなら基本的にこれ．
 - [本田技術研究所 - 論文サイト](https://www.hondarandd.jp/?lang=jp)
 - [マツダ - 技報](https://www.mazda.com/ja/innovation/technology/gihou/)
+- [豊田中央研究所 - R&D Review](https://www.tytlabs.com/review/)
 - [ヤマハ発動機 - 技報](https://global.yamaha-motor.com/jp/design_technology/technical/)
 - [デンソー - テクニカルレビュー](https://www.denso.com/jp/ja/business/innovation/review/)
+- [ケーヒン - 技報](https://www.keihin-corp.co.jp/technology/tec_report.html)
 - [川崎重工 - 技報](https://www.khi.co.jp/rd/magazine/)
 
 ## 失敗から学ぶ
