@@ -57,6 +57,8 @@
 - [電子工作専科 - Nucleoの電源系について](https://denshikousakusenka.jimdofree.com/%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89/stm32/nucleo%E3%81%AE%E9%9B%BB%E6%BA%90%E7%B3%BB/)
 
 ## 成形技術
+- [CFRP.media](https://cfrp.media/)  
+    CFRPに関する学習コンテンツ，最新ニュース解説等
 - [HuckleBorn - FRPの成形方法](http://www.huckleborn.ne.jp/products/frp/howtofrp01.htm)
 - [Corvette California - 発泡シート製作](http://www.pac1.net/corvette/2007/11/post-110.html)
 - [OG Racing - BSCI Seat Insert Kit](https://youtu.be/eRk9d9uiX14)  
