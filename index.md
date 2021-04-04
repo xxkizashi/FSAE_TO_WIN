@@ -1,3 +1,6 @@
+## はじめに
+学生フォーミュラに関する情報をまとめてみました． 役に立てば幸いです．
+
 ## 大事な考え方
 - [安全第一](https://ja.wikipedia.org/wiki/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80)  
     [高専ロボコン2018安全対策ガイド(PDF)](http://www.official-robocon.com/kosen/wordpress/wp-content/uploads/anzen_check_180601.pdf)に具体的な対策方法がまとめられている．
@@ -46,7 +49,7 @@
 - [学生フォーミュラ × モータースポーツ・エンジニア (YouTube)](https://youtu.be/qIcz84KsosU)  
     東京モーターショー2019でのシンポジウム
 
-## 車両運動力学
+## ダンパー・車両運動力学
 - [安部正人 - 自動車の運動と制御](https://www.amazon.co.jp/dp/4501419202/ref=cm_sw_r_tw_dp_U_x_199REbJBJN2ZZ)  
     数式多め．制御工学を勉強してから読むとよい．
 - [野崎博路 - 自動車の限界コーナリングと制御](https://www.amazon.co.jp/dp/4501419709/ref=cm_sw_r_tw_dp_U_x_q-9REbAHCP9ZQ)
@@ -56,6 +59,8 @@
     現役レーシングエンジニアの方による車両セットアップ方法などの解説
 - [VPA FSAE (YouTube)](https://www.youtube.com/channel/UCzL47WHtVIreRdS_dWyDMGw)  
     学生フォーミュラの運動性能についての考察
+- [株式会社アネブル - ダンパー基礎講座 (YouTube)](https://youtu.be/_SQ6Xx3rTSE)  
+    全日本学生フォーミュラ向け”ダンパー基礎講座”の動画
 
 ## タイヤ
 - [築地原政文 - タイヤの力学と操縦安定性 (PDF)](https://www.jsae.or.jp/~dat1/mr/motor15/mr200238.pdf)  
@@ -89,10 +94,6 @@
 - [ムーンクラフト STAFF BLOG - 空力研究所の秘密](https://www.mooncraft.jp/blogstaff/aerodynamic/)
 - [CFD insights (YouTube)](https://www.youtube.com/channel/UC7HbiTAeLdWyJ_6FYOwmTww)  
     空力の解説動画
-
-## ダンパー
-- [株式会社アネブル - ダンパー基礎講座 (YouTube)](https://youtu.be/_SQ6Xx3rTSE)  
-    全日本学生フォーミュラ向け”ダンパー基礎講座”の動画
 
 ## CAD
 - [GrabCAD](https://grabcad.com/library)  
