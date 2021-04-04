@@ -1,10 +1,8 @@
-## はじめに
-このサイトを作った背景は [こちら](https://github.com/xxkizashi/FSAE_TO_WIN#description) を参照してください．
-
 ## 大事な考え方
-- [5S](https://ja.wikipedia.org/wiki/5S)
-    - 安全第一
-    - 整理・整頓・清掃・清潔・躾
+- [安全第一](https://ja.wikipedia.org/wiki/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80)  
+    [高専ロボコン2018安全対策ガイド(PDF)](http://www.official-robocon.com/kosen/wordpress/wp-content/uploads/anzen_check_180601.pdf)に具体的な対策方法がまとめられている．
+- [5S](https://ja.wikipedia.org/wiki/5S)  
+    整理・整頓・清掃・清潔・躾
 - [報・連・相](https://ja.wikipedia.org/wiki/%E5%A0%B1%E3%83%BB%E9%80%A3%E3%83%BB%E7%9B%B8)  
     報告・連絡・相談
 - [PDCAサイクル](https://ja.wikipedia.org/wiki/PDCA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB)  
@@ -14,27 +12,50 @@
     ![v_model](/img/v_model.PNG)
 - [JAXA - システムズエンジニアリングの基本的な考え方 (PDF)](https://ssl.tksc.jaxa.jp/isasse01/kanren/BDB/BDB06007BSEkihon.pdf)  
     [システムズエンジニアリングとは「複雑なシステムを，目的通りにちゃんと動くように作るための方法論」である．](http://hiroono.com/ja/2021/01/01/thoughts_on_japanese_space_startups/) by NASA JPLの小野雅裕さん
-- [第31回アイデア対決・全国高等専門学校ロボットコンテスト2018 - 安全対策ガイド (PDF)](http://www.official-robocon.com/kosen/wordpress/wp-content/uploads/anzen_check_180601.pdf)
 
 ## 大会運営
 - [学生フォーミュラ公式サイト](https://www.jsae.or.jp/formula/jp/)
 - [Formula SAE Series Resources](https://www.fsaeonline.com/cdsweb/gen/DocumentResources.aspx)  
     英語のルールはここ
+- [StudentFormulaJapan (YouTube)](https://www.youtube.com/user/StudentFormulaJapan)  
+    学生フォーミュラの公式YouTubeチャンネル．デザインファイナルの動画は特に勉強になる．
 
-## 車両全般
+## 学生フォーミュラ入門
 - [ZF - ミニフォーミュラWEBセミナー](https://www.zf.com/products/ja/motorsport/motorsport_japan/mini_forumula_web_seminar/mini_formula_web_seminar.html)  
     企画・設計・製作・開発の一通りの流れを解説
-- [Team Le Mans - 講座のアーカイブ](http://a011w.broada.jp/cantalwaysget/)  
-    ダンパー・車両運動力学の解説
-- [EmperorD - note](https://note.com/emperor_d)  
-    現役レーシングエンジニアの方による車両セットアップ方法などの解説
 - [自動車技術会 - 自動車開発・製作ガイド](https://tech.jsae.or.jp/hanbai/html/detail/j2008-31.html)  
     青本と呼ばれる学生フォーミュラのバイブル．[講義動画](https://www.jsae.or.jp/formula/jp/SFJ/digital.php)が公開されている．
 - [自動車技術会 - 電気自動車の開発](https://tech.jsae.or.jp/hanbai/html/detail/j2015-32.html)  
     名古屋大学フォーミュラチームFEMの人がおすすめしてた．
+
+## 走行動画
+- [Hirofumi Yamaguchi - 学生フォーミュラ日本最速車両 (YouTube)](https://youtu.be/rmwHKfSambo)  
+    2019年大会で優勝した名古屋工業大学のオンボード映像
+- [ギャオスタジオ (YouTube)](https://www.youtube.com/channel/UCDhB4SqV0MZmGggtIpAgFSQ)  
+    2019年大会のスラローム比較
+- [AMZ Driverless - Competitive against a human driver (YouTube)](https://youtu.be/aUQE5-6k6is)  
+    自動運転面白そう．
+
+## エンジニア人生
+- [Kenichi Kono - Engineer Life in F1](https://www.f1engineer-jp.com/)
+- [ゆとりのレースエンジニア (note)](https://note.com/h_theta)
+- [わたぽん - WataponWorld@UK](http://watapon-f1.com/)  
+    イギリスの大学で学生フォーミュラに取組み，F1を目指していた方のブログ．[note](https://note.com/wataponf1)に移行したっぽい．
+- [エイドリアン ・ ニューウェイ - HOW TO BUILD A CAR](https://www.amazon.co.jp/dp/4779641608/ref=cm_sw_r_tw_dp_x_eveiFb4BNW2TQ)  
+    東北大学附属図書館工学分館には日本語版と英語版の両方ある．
+- [学生フォーミュラ × モータースポーツ・エンジニア (YouTube)](https://youtu.be/qIcz84KsosU)  
+    東京モーターショー2019でのシンポジウム
+
+## 車両運動力学
 - [安部正人 - 自動車の運動と制御](https://www.amazon.co.jp/dp/4501419202/ref=cm_sw_r_tw_dp_U_x_199REbJBJN2ZZ)  
     数式多め．制御工学を勉強してから読むとよい．
 - [野崎博路 - 自動車の限界コーナリングと制御](https://www.amazon.co.jp/dp/4501419709/ref=cm_sw_r_tw_dp_U_x_q-9REbAHCP9ZQ)
+- [Team Le Mans - 講座のアーカイブ](http://a011w.broada.jp/cantalwaysget/)  
+    ダンパー・車両運動力学の解説
+- [EmperorD (note)](https://note.com/emperor_d)  
+    現役レーシングエンジニアの方による車両セットアップ方法などの解説
+- [VPA FSAE (YouTube)](https://www.youtube.com/channel/UCzL47WHtVIreRdS_dWyDMGw)  
+    学生フォーミュラの運動性能についての考察
 
 ## タイヤ
 - [築地原政文 - タイヤの力学と操縦安定性 (PDF)](https://www.jsae.or.jp/~dat1/mr/motor15/mr200238.pdf)  
@@ -61,16 +82,16 @@
     CFRPに関する学習コンテンツ，最新ニュース解説等
 - [HuckleBorn - FRPの成形方法](http://www.huckleborn.ne.jp/products/frp/howtofrp01.htm)
 - [Corvette California - 発泡シート製作](http://www.pac1.net/corvette/2007/11/post-110.html)
-- [OG Racing - BSCI Seat Insert Kit](https://youtu.be/eRk9d9uiX14)  
+- [OG Racing - BSCI Seat Insert Kit (YouTube)](https://youtu.be/eRk9d9uiX14)  
     シートの作り方
 
 ## 空力
 - [ムーンクラフト STAFF BLOG - 空力研究所の秘密](https://www.mooncraft.jp/blogstaff/aerodynamic/)
-- [CFD insights](https://www.youtube.com/channel/UC7HbiTAeLdWyJ_6FYOwmTww)  
+- [CFD insights (YouTube)](https://www.youtube.com/channel/UC7HbiTAeLdWyJ_6FYOwmTww)  
     空力の解説動画
 
 ## ダンパー
-- [株式会社アネブル - ダンパー基礎講座](https://youtu.be/_SQ6Xx3rTSE)  
+- [株式会社アネブル - ダンパー基礎講座 (YouTube)](https://youtu.be/_SQ6Xx3rTSE)  
     全日本学生フォーミュラ向け”ダンパー基礎講座”の動画
 
 ## CAD
@@ -87,34 +108,8 @@
 - [MATLAB Plot Gallery](https://jp.mathworks.com/products/matlab/plot-gallery.html)  
     データ可視化の際の参考に．
 - [何故、自動車のステア特性は基本的に弱アンダーなのか？検証してみた](https://qiita.com/Fuminori_Souma/items/9e0bc9a92515cfffeda1)
-- [MATLAB Japan - Simulinkによる簡易自動車モデリング](https://youtu.be/kCpgea63xpY)  
+- [MATLAB Japan - Simulinkによる簡易自動車モデリング (YouTube)](https://youtu.be/kCpgea63xpY)  
     MathWorksの方によるWebセミナー
-
-## 動画
-- [StudentFormulaJapan](https://www.youtube.com/user/StudentFormulaJapan)  
-    学生フォーミュラの公式YouTubeチャンネル．デザインファイナルの動画は特に勉強になる．
-- [Hirofumi Yamaguchi - 学生フォーミュラ日本最速車両](https://youtu.be/rmwHKfSambo)  
-    2019年大会で優勝した名古屋工業大学のオンボード映像
-- [ギャオスタジオ](https://www.youtube.com/channel/UCDhB4SqV0MZmGggtIpAgFSQ)  
-    2019年大会のスラローム比較
-- [VPA FSAE](https://www.youtube.com/channel/UCzL47WHtVIreRdS_dWyDMGw)  
-    学生フォーミュラの運動性能についての考察
-- [学生フォーミュラ × モータースポーツ・エンジニア](https://youtu.be/qIcz84KsosU)  
-    東京モーターショー2019でのシンポジウム
-- [AMZ - Driverless 2019 Season End](https://youtu.be/SAcn6X0amk4)  
-    自動運転面白そう．
-- [30 min Service of Stephane Lefebvre damaged Citroen WRC](https://youtu.be/UKBnPnYh8iw)  
-    チームワーク抜群！
-- [F1 - Max Verstappen Crashes On Way To Grid](https://youtu.be/k-HpHDpeF8E)  
-    こちらもチームワーク抜群！
-
-## エンジニア人生
-- [Kenichi Kono - Engineer Life in F1](https://www.f1engineer-jp.com/)
-- [ゆとりのレースエンジニア - note](https://note.com/h_theta)
-- [わたぽん - WataponWorld@UK](http://watapon-f1.com/)  
-    イギリスの大学で学生フォーミュラに取組み，F1を目指していた方のブログ．[note](https://note.com/wataponf1)に移行したっぽい．
-- [エイドリアン ・ ニューウェイ - HOW TO BUILD A CAR](https://www.amazon.co.jp/dp/4779641608/ref=cm_sw_r_tw_dp_x_eveiFb4BNW2TQ)  
-    東北大学附属図書館工学分館には日本語版と英語版の両方ある．
 
 ## 論文・技報
 - [Google Scholar](https://scholar.google.co.jp/)  
@@ -141,3 +136,7 @@
 - [Student Formula Advent Calendar 2020](https://adventar.org/calendars/5465)  
 - [port F - Student/Japan](https://twitter.com/i/lists/1085108431470583813?s=20)  
     日本の学生フォーミュラチームや自動車部などのTwitterリスト
+- [30 min Service of Stephane Lefebvre damaged Citroen WRC (YouTube)](https://youtu.be/UKBnPnYh8iw)  
+    チームワーク抜群！
+- [F1 - Max Verstappen Crashes On Way To Grid (YouTube)](https://youtu.be/k-HpHDpeF8E)  
+    こちらもチームワーク抜群！
