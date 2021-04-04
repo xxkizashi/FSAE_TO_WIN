@@ -49,7 +49,7 @@
 - [学生フォーミュラ × モータースポーツ・エンジニア (YouTube)](https://youtu.be/qIcz84KsosU)  
     東京モーターショー2019でのシンポジウム
 
-## ダンパー・車両運動力学
+## 車両運動力学・ダンパー
 - [安部正人 - 自動車の運動と制御](https://www.amazon.co.jp/dp/4501419202/ref=cm_sw_r_tw_dp_U_x_199REbJBJN2ZZ)  
     数式多め．制御工学を勉強してから読むとよい．
 - [野崎博路 - 自動車の限界コーナリングと制御](https://www.amazon.co.jp/dp/4501419709/ref=cm_sw_r_tw_dp_U_x_q-9REbAHCP9ZQ)
