@@ -50,13 +50,13 @@
     東京モーターショー2019でのシンポジウム
 
 ## 車両運動力学・ダンパー
+- [Team Le Mans - 講座のアーカイブ](http://a011w.broada.jp/cantalwaysget/)  
+    車両運動力学・ダンパーの解説
+- [EmperorD (note)](https://note.com/emperor_d)  
+    現役レーシングエンジニアの方による車両セットアップ方法などの解説
 - [安部正人 - 自動車の運動と制御](https://www.amazon.co.jp/dp/4501419202/ref=cm_sw_r_tw_dp_U_x_199REbJBJN2ZZ)  
     数式多め．制御工学を勉強してから読むとよい．
 - [野崎博路 - 自動車の限界コーナリングと制御](https://www.amazon.co.jp/dp/4501419709/ref=cm_sw_r_tw_dp_U_x_q-9REbAHCP9ZQ)
-- [Team Le Mans - 講座のアーカイブ](http://a011w.broada.jp/cantalwaysget/)  
-    ダンパー・車両運動力学の解説
-- [EmperorD (note)](https://note.com/emperor_d)  
-    現役レーシングエンジニアの方による車両セットアップ方法などの解説
 - [VPA FSAE (YouTube)](https://www.youtube.com/channel/UCzL47WHtVIreRdS_dWyDMGw)  
     学生フォーミュラの運動性能についての考察
 - [株式会社アネブル - ダンパー基礎講座 (YouTube)](https://youtu.be/_SQ6Xx3rTSE)  
