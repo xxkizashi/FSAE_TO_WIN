@@ -16,7 +16,7 @@
 - [JAXA - システムズエンジニアリングの基本的な考え方 (PDF)](https://ssl.tksc.jaxa.jp/isasse01/kanren/BDB/BDB06007BSEkihon.pdf)  
     [システムズエンジニアリングとは「複雑なシステムを，目的通りにちゃんと動くように作るための方法論」である．](http://hiroono.com/ja/2021/01/01/thoughts_on_japanese_space_startups/) by NASA JPLの小野雅裕さん
 
-## 大会運営
+## 大会公式
 - [学生フォーミュラ公式サイト](https://www.jsae.or.jp/formula/jp/)
 - [Formula SAE Series Resources](https://www.fsaeonline.com/cdsweb/gen/DocumentResources.aspx)  
     英語のルールはここ
@@ -24,7 +24,7 @@
     学生フォーミュラの公式YouTubeチャンネル．デザインファイナルの動画は特に勉強になる．
 
 ## 学生フォーミュラ入門
-- [ZF - ミニフォーミュラWEBセミナー](https://www.zf.com/products/ja/motorsport/motorsport_japan/mini_forumula_web_seminar/mini_formula_web_seminar.html)  
+- [ZF - ミニフォーミュラWEBセミナー](https://www.zf.com/japan/ja/motorsport_japan/mini_forumula_web_seminar/mini_formula_web_seminar.html)  
     企画・設計・製作・開発の一通りの流れを解説
 - [自動車技術会 - 自動車開発・製作ガイド](https://tech.jsae.or.jp/hanbai/html/detail/j2008-31.html)  
     青本と呼ばれる学生フォーミュラのバイブル．[講義動画](https://www.jsae.or.jp/formula/jp/SFJ/digital.php)が公開されている．
@@ -77,7 +77,7 @@
     プリント基板設計の際に役立つ．
 - [かずいの雑記帳４ - 555を使ったオンディレイタイマの制作（その２）](http://kazuikazui.dreamlog.jp/archives/52463320.html)  
     プリチャージ回路
-- [Greg's TouchDRO Blog - My first working TouchDRO Arduino tachometer. (Analog)](http://www.bettec.co/dro/)  
+- [Greg's TouchDRO Blog - My first working TouchDRO Arduino tachometer.](http://www.bettec.co/dro/)  
     輪速センサが発生させた矩形波をアナログ信号に変換
 - [慶應義塾大学ロボット技術研究会 - NUCLEO-F446REの初期状態で使えないピンについて雑にまとめた](https://keiorogiken.wordpress.com/2018/12/08/nucleo-f446re/)
 - [電子工作専科 - Nucleoの電源系について](https://denshikousakusenka.jimdofree.com/%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89/stm32/nucleo%E3%81%AE%E9%9B%BB%E6%BA%90%E7%B3%BB/)
