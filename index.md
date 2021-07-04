@@ -77,8 +77,6 @@
     プリント基板設計の際に役立つ．
 - [かずいの雑記帳４ - 555を使ったオンディレイタイマの制作（その２）](http://kazuikazui.dreamlog.jp/archives/52463320.html)  
     プリチャージ回路
-- [Greg's TouchDRO Blog - My first working TouchDRO Arduino tachometer.](http://www.bettec.co/dro/)  
-    輪速センサが発生させた矩形波をアナログ信号に変換
 - [慶應義塾大学ロボット技術研究会 - NUCLEO-F446REの初期状態で使えないピンについて雑にまとめた](https://keiorogiken.wordpress.com/2018/12/08/nucleo-f446re/)
 - [電子工作専科 - Nucleoの電源系について](https://denshikousakusenka.jimdofree.com/%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89/stm32/nucleo%E3%81%AE%E9%9B%BB%E6%BA%90%E7%B3%BB/)
 
@@ -102,15 +100,14 @@
 ## MATLAB/Simulink
 - [MATLAB/Simulink チュートリアル](https://jp.mathworks.com/support/learn-with-matlab-tutorials.html)  
     MATLAB/Simulinkを使ったことが無いのであれば，まずはチュートリアルから
-- [MATLAB/Simulink Racing Lounge](https://blogs.mathworks.com/racing-lounge/)  
-    学生フォーミュラへの応用例をブログで解説
 - [Vehicle Dynamics Blockset Documentation](https://jp.mathworks.com/help/vdynblks/)  
     車両運動のモデル化とシミュレーションで使用するパッケージ
 - [MATLAB Plot Gallery](https://jp.mathworks.com/products/matlab/plot-gallery.html)  
     データ可視化の際の参考に．
 - [何故、自動車のステア特性は基本的に弱アンダーなのか？検証してみた](https://qiita.com/Fuminori_Souma/items/9e0bc9a92515cfffeda1)
-- [MATLAB Japan - Simulinkによる簡易自動車モデリング (YouTube)](https://youtu.be/kCpgea63xpY)  
-    MathWorksの方によるWebセミナー
+- [MATLAB Japan - MATLABとSimulinkの基礎（学生フォーミュラ向け）(YouTube)](https://youtu.be/XrMpZWW2gic)  
+- [MATLAB Japan - Simulinkによる簡易自動車モデリング (YouTube)](https://youtu.be/kCpgea63xpY)
+- [MATLAB Japan - Vehicle Dynamics Blocksetによる縦方向および横方向の車両運動のシミュレーション (YouTube)](https://youtu.be/iYpgjJR1C9w) 
 
 ## 論文・技報
 - [Google Scholar](https://scholar.google.co.jp/)  
