@@ -1,7 +1,7 @@
 ## はじめに
-学生フォーミュラに関する情報をまとめてみました． 役に立てば幸いです．
+学生フォーミュラに関する情報をまとめてみました． 
 
-## 大事な考え方
+## 考え方
 - [安全第一](https://ja.wikipedia.org/wiki/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80)  
     [高専ロボコン2021安全対策ガイド(PDF)](https://official-robocon.com/robocon_wp/wordpress/wp-content/uploads/2021/04/%E3%80%90%E9%AB%98%E5%B0%82%E3%83%AD%E3%83%9B%E3%82%99%E3%82%B3%E3%83%B32021%E5%AE%89%E5%85%A8%E5%AF%BE%E7%AD%96%E3%82%AB%E3%82%99%E3%82%A4%E3%83%88%E3%82%99%E3%80%91%E7%99%BA%E8%A1%A8%E7%94%A8.pdf)に具体的な対策方法がまとめられている．
 - [5S](https://ja.wikipedia.org/wiki/5S)  
@@ -36,8 +36,6 @@
     2019年大会で優勝した名古屋工業大学のオンボード映像
 - [ギャオスタジオ (YouTube)](https://www.youtube.com/channel/UCDhB4SqV0MZmGggtIpAgFSQ)  
     2019年大会のスラローム比較
-- [AMZ Driverless - Competitive against a human driver (YouTube)](https://youtu.be/aUQE5-6k6is)  
-    自動運転面白そう．
 
 ## エンジニア人生
 - [Kenichi Kono - Engineer Life in F1](https://www.f1engineer-jp.com/)
@@ -69,18 +67,7 @@
     - タイヤデータがまとめられている．タイヤに関する議論も行われている．
     - Bill Cobbさん（元GMのエンジニア）の投稿を中心に読むとよい．
 
-## 電装
-- [学生フォーミュラEV オンラインセミナー](https://www.jsae.or.jp/form/?id=27)  
-- [AKIRACING.COM - EAGLEの使い方](http://akiracing.com/2017/05/27/eagle_tutorial/)  
-    基板設計ソフトEAGLEの使い方が簡単にまとめられている．
-- [ノイズ対策.COM パターン幅・導体間隔設計基準書](https://www.noise-counterplan.com/article/14951064.html)  
-    プリント基板設計の際に役立つ．
-- [かずいの雑記帳４ - 555を使ったオンディレイタイマの制作（その２）](http://kazuikazui.dreamlog.jp/archives/52463320.html)  
-    プリチャージ回路
-- [慶應義塾大学ロボット技術研究会 - NUCLEO-F446REの初期状態で使えないピンについて雑にまとめた](https://keiorogiken.wordpress.com/2018/12/08/nucleo-f446re/)
-- [電子工作専科 - Nucleoの電源系について](https://denshikousakusenka.jimdofree.com/%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89/stm32/nucleo%E3%81%AE%E9%9B%BB%E6%BA%90%E7%B3%BB/)
-
-## 成形技術
+## 成形
 - [CFRP.media](https://cfrp.media/)  
     CFRPに関する学習コンテンツ，最新ニュース解説等
 - [HuckleBorn - FRPの成形方法](http://www.huckleborn.ne.jp/products/frp/howtofrp01.htm)
@@ -96,6 +83,21 @@
 ## CAD
 - [GrabCAD](https://grabcad.com/library)  
     無料でCADモデルをダウンロードできるサイト．世の中にある物は大体ある．
+
+## 電装
+- [学生フォーミュラEV オンラインセミナー](https://www.jsae.or.jp/form/?id=27)  
+- [AKIRACING.COM - EAGLEの使い方](http://akiracing.com/2017/05/27/eagle_tutorial/)  
+    基板設計ソフトEAGLEの使い方が簡単にまとめられている．
+- [ノイズ対策.COM パターン幅・導体間隔設計基準書](https://www.noise-counterplan.com/article/14951064.html)  
+    プリント基板設計の際に役立つ．
+- [かずいの雑記帳４ - 555を使ったオンディレイタイマの制作（その２）](http://kazuikazui.dreamlog.jp/archives/52463320.html)  
+    プリチャージ回路
+- [慶應義塾大学ロボット技術研究会 - NUCLEO-F446REの初期状態で使えないピンについて雑にまとめた](https://keiorogiken.wordpress.com/2018/12/08/nucleo-f446re/)
+- [電子工作専科 - Nucleoの電源系について](https://denshikousakusenka.jimdofree.com/%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89/stm32/nucleo%E3%81%AE%E9%9B%BB%E6%BA%90%E7%B3%BB/)
+
+## 自動運転
+- [Tier IV Tech Blog](https://tech.tier4.jp/)  
+- [AMZ Driverless - Competitive against a human driver (YouTube)](https://youtu.be/aUQE5-6k6is)
 
 ## MATLAB/Simulink
 - [MATLAB/Simulink チュートリアル](https://jp.mathworks.com/support/learn-with-matlab-tutorials.html)  
