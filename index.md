@@ -104,13 +104,10 @@
     Assetto Corsaで使用可能な学生フォーミュラ日本大会のMOD
 
 ## MATLAB/Simulink
-- [MATLAB/Simulink チュートリアル](https://jp.mathworks.com/support/learn-with-matlab-tutorials.html)  
-    MATLAB/Simulinkを使ったことが無いのであれば，まずはチュートリアルから
-- [Vehicle Dynamics Blockset Documentation](https://jp.mathworks.com/help/vdynblks/)  
-    車両運動のモデル化とシミュレーションで使用するパッケージ
+- [MATLAB/Simulink チュートリアル](https://jp.mathworks.com/support/learn-with-matlab-tutorials.html)
 - [MATLAB Plot Gallery](https://jp.mathworks.com/products/matlab/plot-gallery.html)  
     データ可視化の際の参考に
-- [何故、自動車のステア特性は基本的に弱アンダーなのか？検証してみた](https://qiita.com/Fuminori_Souma/items/9e0bc9a92515cfffeda1)
+- [MathWorks - 学生フォーミュラ日本大会](https://jp.mathworks.com/academia/student-competitions/formula-sae.html)  
 - [MATLAB Japan - MATLABとSimulinkの基礎（学生フォーミュラ向け）(YouTube)](https://youtu.be/XrMpZWW2gic)  
 - [MATLAB Japan - Simulinkによる簡易自動車モデリング (YouTube)](https://youtu.be/kCpgea63xpY)
 - [MATLAB Japan - Vehicle Dynamics Blocksetによる縦方向および横方向の車両運動のシミュレーション (YouTube)](https://youtu.be/iYpgjJR1C9w) 
@@ -119,11 +116,15 @@
 - [Google Scholar](https://scholar.google.co.jp/)  
     論文を探すなら基本的にこれ．
 - [本田技術研究所 - 論文サイト](https://www.hondarandd.jp/?lang=jp)
-- [マツダ - 技報](https://www.mazda.com/ja/innovation/technology/gihou/)
+- [日産技報](https://www.nissan-global.com/JP/TECHNICALREVIEW/)
+- [マツダ技報](https://www.mazda.com/ja/innovation/technology/gihou/)
 - [豊田中央研究所 - R&D Review](https://www.tytlabs.com/review/)
+- [デンソーテクニカルレビュー](https://www.denso.com/jp/ja/business/innovation/review/)
+- [豊田自動織機技報](https://www.toyota-shokki.co.jp/about_us/technical/library/)
 - [ヤマハ発動機 - 技報](https://global.yamaha-motor.com/jp/design_technology/technical/)
-- [デンソー - テクニカルレビュー](https://www.denso.com/jp/ja/business/innovation/review/)
-- [川崎重工 - 技報](https://www.khi.co.jp/rd/magazine/)
+- [川崎重工技報](https://www.khi.co.jp/rd/magazine/)
+- [日立評論](https://www.hitachihyoron.com/jp/issue/index.html)
+- [パナソニック技報](https://www.panasonic.com/jp/corporate/technology-design/ptj/new.html)
 
 ## 失敗から学ぶ
 - [名古屋工業大学人力飛行機研究会NIEWs - 試験飛行における事故について](http://blog.livedoor.jp/niews_nitech/archives/57302762.html)  
@@ -132,10 +133,8 @@
 - [AGH Racing Team - FS Spain 2015 Formula Student Electric Car crash](https://youtu.be/cj85PD5A-hU)  
 
 ## その他
-- [ホンダの学生フォーミュラ活動支援](https://www.honda.co.jp/philanthropy/support/f-sae.html)  
-    佐藤琢磨選手のメッセージ動画は泣ける．
+- [ホンダの学生フォーミュラ活動支援](https://www.honda.co.jp/philanthropy/support/f-sae.html)
 - [Student Formula Advent Calendar 2019](https://adventar.org/calendars/4588)  
-    学生フォーミュラでの苦労話，OBからのアドバイスなどなど
 - [Student Formula Advent Calendar 2020](https://adventar.org/calendars/5465)  
 - [port F - Student/Japan](https://twitter.com/i/lists/1085108431470583813?s=20)  
     日本の学生フォーミュラチームや自動車部などのTwitterリスト
