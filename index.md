@@ -16,12 +16,13 @@
 - [JAXA - システムズエンジニアリングの基本的な考え方 (PDF)](https://ssl.tksc.jaxa.jp/isasse01/kanren/BDB/BDB06007BSEkihon.pdf)  
     [システムズエンジニアリングとは「複雑なシステムを，目的通りにちゃんと動くように作るための方法論」である．](http://hiroono.com/ja/2021/01/01/thoughts_on_japanese_space_startups/) by NASA JPLの小野雅裕さん
 
-## 大会公式
+## 大会公式サイト
 - [学生フォーミュラ公式サイト](https://www.jsae.or.jp/formula/jp/)
 - [Formula SAE Series Resources](https://www.fsaeonline.com/cdsweb/gen/DocumentResources.aspx)  
     英語のルールはここ
 - [StudentFormulaJapan (YouTube)](https://www.youtube.com/user/StudentFormulaJapan)  
-    学生フォーミュラの公式YouTubeチャンネル．デザインファイナルの動画は特に勉強になる．
+    学生フォーミュラ日本大会の公式YouTubeチャンネル．
+- [(公社)自動車技術会 (YouTube)](https://www.youtube.com/c/%E5%85%AC%E7%A4%BE%E8%87%AA%E5%8B%95%E8%BB%8A%E6%8A%80%E8%A1%93%E4%BC%9A)  
 
 ## 学生フォーミュラ入門
 - [ZF - ミニフォーミュラWEBセミナー](https://www.zf.com/japan/ja/motorsport_japan/mini_forumula_web_seminar/mini_formula_web_seminar.html)  
@@ -29,7 +30,7 @@
 - [自動車技術会 - 自動車開発・製作ガイド](https://tech.jsae.or.jp/hanbai/html/detail/j2008-31.html)  
     青本と呼ばれる学生フォーミュラのバイブル．[講義動画](https://www.jsae.or.jp/formula/jp/SFJ/digital.php)が公開されている．
 - [自動車技術会 - 電気自動車の開発](https://tech.jsae.or.jp/hanbai/html/detail/j2015-32.html)  
-    名古屋大学フォーミュラチームFEMの人がおすすめしてた．
+    名古屋大学フォーミュラチームFEMの人がおすすめしていた．
 
 ## 走行動画
 - [Hirofumi Yamaguchi - 学生フォーミュラ日本最速車両 (YouTube)](https://youtu.be/rmwHKfSambo)  
@@ -41,7 +42,7 @@
 - [Kenichi Kono - Engineer Life in F1](https://www.f1engineer-jp.com/)
 - [ゆとりのレースエンジニア (note)](https://note.com/h_theta)
 - [わたぽん - WataponWorld@UK](http://watapon-f1.com/)  
-    イギリスの大学で学生フォーミュラに取組み，F1を目指していた方のブログ．[note](https://note.com/wataponf1)に移行したっぽい．
+    イギリスの大学で学生フォーミュラに取組み，F1を目指していた方のブログ．[note](https://note.com/wataponf1)も参照．
 - [エイドリアン ・ ニューウェイ - HOW TO BUILD A CAR](https://www.amazon.co.jp/dp/4779641608/ref=cm_sw_r_tw_dp_x_eveiFb4BNW2TQ)  
     東北大学附属図書館工学分館には日本語版と英語版の両方ある．
 - [学生フォーミュラ × モータースポーツ・エンジニア (YouTube)](https://youtu.be/qIcz84KsosU)  
