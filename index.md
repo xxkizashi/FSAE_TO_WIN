@@ -21,7 +21,7 @@
 - [Formula SAE Series Resources](https://www.fsaeonline.com/cdsweb/gen/DocumentResources.aspx)  
     英語のルールはここ
 - [StudentFormulaJapan (YouTube)](https://www.youtube.com/user/StudentFormulaJapan)  
-    学生フォーミュラ日本大会の公式YouTubeチャンネル．
+    学生フォーミュラ日本大会の公式YouTubeチャンネル
 - [(公社)自動車技術会 (YouTube)](https://www.youtube.com/c/%E5%85%AC%E7%A4%BE%E8%87%AA%E5%8B%95%E8%BB%8A%E6%8A%80%E8%A1%93%E4%BC%9A)  
 
 ## 学生フォーミュラ入門
@@ -72,7 +72,6 @@
 - [CFRP.media](https://cfrp.media/)  
     CFRPに関する学習コンテンツ，最新ニュース解説等
 - [HuckleBorn - FRPの成形方法](http://www.huckleborn.ne.jp/products/frp/howtofrp01.htm)
-- [Corvette California - 発泡シート製作](http://www.pac1.net/corvette/2007/11/post-110.html)
 - [OG Racing - BSCI Seat Insert Kit (YouTube)](https://youtu.be/eRk9d9uiX14)  
     シートの作り方
 
@@ -115,7 +114,7 @@
 
 ## 論文・技報
 - [Google Scholar](https://scholar.google.co.jp/)  
-    論文を探すなら基本的にこれ．
+    論文を探すならこれ．
 - [本田技術研究所 - 論文サイト](https://www.hondarandd.jp/?lang=jp)
 - [日産技報](https://www.nissan-global.com/JP/TECHNICALREVIEW/)
 - [マツダ技報](https://www.mazda.com/ja/innovation/technology/gihou/)
