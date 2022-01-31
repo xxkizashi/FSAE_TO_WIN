@@ -15,16 +15,15 @@
     ![v_model](/img/v_model.PNG)
 - [JAXA - システムズエンジニアリングの基本的な考え方 (PDF)](https://ssl.tksc.jaxa.jp/isasse01/kanren/BDB/BDB06007BSEkihon.pdf)
 
-## 日本大会公式サイト
+## 大会公式
 - [学生フォーミュラ公式サイト](https://www.jsae.or.jp/formula/jp/)
 - [Formula SAE Series Resources](https://www.fsaeonline.com/cdsweb/gen/DocumentResources.aspx)  
     英語のルールはここ
-- [StudentFormulaJapan (YouTube)](https://www.youtube.com/user/StudentFormulaJapan)  
-    学生フォーミュラ日本大会の公式YouTubeチャンネル
-- [(公社)自動車技術会 (YouTube)](https://www.youtube.com/c/%E5%85%AC%E7%A4%BE%E8%87%AA%E5%8B%95%E8%BB%8A%E6%8A%80%E8%A1%93%E4%BC%9A)  
 - [Formula Student UK](https://www.imeche.org/events/formula-student)  
-- [Formula Student UK (YouTube)](https://www.youtube.com/user/fsimeche/featured)  
 - [Formula Student Germany](https://www.formulastudent.de/fsg/)  
+- [StudentFormulaJapan (YouTube)](https://www.youtube.com/user/StudentFormulaJapan)  
+- [(公社)自動車技術会 (YouTube)](https://www.youtube.com/c/%E5%85%AC%E7%A4%BE%E8%87%AA%E5%8B%95%E8%BB%8A%E6%8A%80%E8%A1%93%E4%BC%9A)  
+- [Formula Student UK (YouTube)](https://www.youtube.com/user/fsimeche/featured)  
 - [FormulaStudentTV (YouTube)](https://www.youtube.com/c/FormulaStudentTV/featured)  
     Formula Student Germanyの公式YouTubeチャンネル
 
