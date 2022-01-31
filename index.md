@@ -13,16 +13,20 @@
 - V字開発プロセス  
     画像は [学生フォーミュラ日本大会2016審査講評 (PDF)](https://www.jsae.or.jp/formula/jp/student_formula/14th_result/docu/SAE_2016_03.pdf) より引用  
     ![v_model](/img/v_model.PNG)
-- [JAXA - システムズエンジニアリングの基本的な考え方 (PDF)](https://ssl.tksc.jaxa.jp/isasse01/kanren/BDB/BDB06007BSEkihon.pdf)  
-    [システムズエンジニアリングとは「複雑なシステムを，目的通りにちゃんと動くように作るための方法論」である．](http://hiroono.com/ja/2021/01/01/thoughts_on_japanese_space_startups/) by NASA JPLの小野雅裕さん
+- [JAXA - システムズエンジニアリングの基本的な考え方 (PDF)](https://ssl.tksc.jaxa.jp/isasse01/kanren/BDB/BDB06007BSEkihon.pdf)
 
-## 大会公式サイト
+## 日本大会公式サイト
 - [学生フォーミュラ公式サイト](https://www.jsae.or.jp/formula/jp/)
 - [Formula SAE Series Resources](https://www.fsaeonline.com/cdsweb/gen/DocumentResources.aspx)  
     英語のルールはここ
 - [StudentFormulaJapan (YouTube)](https://www.youtube.com/user/StudentFormulaJapan)  
     学生フォーミュラ日本大会の公式YouTubeチャンネル
 - [(公社)自動車技術会 (YouTube)](https://www.youtube.com/c/%E5%85%AC%E7%A4%BE%E8%87%AA%E5%8B%95%E8%BB%8A%E6%8A%80%E8%A1%93%E4%BC%9A)  
+- [Formula Student UK](https://www.imeche.org/events/formula-student)  
+- [Formula Student UK (YouTube)](https://www.youtube.com/user/fsimeche/featured)  
+- [Formula Student Germany](https://www.formulastudent.de/fsg/)  
+- [FormulaStudentTV (YouTube)](https://www.youtube.com/c/FormulaStudentTV/featured)  
+    Formula Student Germanyの公式YouTubeチャンネル
 
 ## 学生フォーミュラ入門
 - [ZF - ミニフォーミュラWEBセミナー](https://www.zf.com/japan/ja/motorsport_japan/mini_forumula_web_seminar/mini_formula_web_seminar.html)  
@@ -69,8 +73,6 @@
     - Bill Cobbさん（元GMのエンジニア）の投稿を中心に読むとよい．
 
 ## 成形
-- [CFRP.media](https://cfrp.media/)  
-    CFRPに関する学習コンテンツ，最新ニュース解説等
 - [HuckleBorn - FRPの成形方法](http://www.huckleborn.ne.jp/products/frp/howtofrp01.htm)
 - [OG Racing - BSCI Seat Insert Kit (YouTube)](https://youtu.be/eRk9d9uiX14)  
     シートの作り方
