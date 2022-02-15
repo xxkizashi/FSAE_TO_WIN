@@ -81,9 +81,9 @@
 - [CFD insights (YouTube)](https://www.youtube.com/channel/UC7HbiTAeLdWyJ_6FYOwmTww)  
     空力の解説動画
 
-## CAD
-- [GrabCAD](https://grabcad.com/library)  
-    無料でCADモデルをダウンロードできるサイト．世の中にある物は大体ある．
+## 3D modeling
+- [GrabCAD](https://grabcad.com/library)
+- [Thingiverse](https://www.thingiverse.com/)    
 
 ## 電装
 - [学生フォーミュラEV オンラインセミナー](https://www.jsae.or.jp/form/?id=27)  
