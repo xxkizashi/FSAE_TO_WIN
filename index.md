@@ -45,9 +45,7 @@
 - [Kenichi Kono - Engineer Life in F1](https://www.f1engineer-jp.com/)
 - [ゆとりのレースエンジニア (note)](https://note.com/h_theta)
 - [わたぽん - WataponWorld@UK](http://watapon-f1.com/)  
-    イギリスの大学で学生フォーミュラに取組み，F1を目指していた方のブログ．[note](https://note.com/wataponf1)も参照．
 - [エイドリアン ・ ニューウェイ - HOW TO BUILD A CAR](https://www.amazon.co.jp/dp/4779641608/ref=cm_sw_r_tw_dp_x_eveiFb4BNW2TQ)  
-    東北大学附属図書館工学分館には日本語版と英語版の両方ある．
 - [学生フォーミュラ × モータースポーツ・エンジニア (YouTube)](https://youtu.be/qIcz84KsosU)  
     東京モーターショー2019でのシンポジウム
 
@@ -130,7 +128,6 @@
 ## 先人から学ぶ
 - [名古屋工業大学人力飛行機研究会NIEWs - 試験飛行における事故について](http://blog.livedoor.jp/niews_nitech/archives/57302762.html)  
 - [Fire puts FSG team members in hospital](https://www.racetechmag.com/2016/08/fire-fsg-team-members-hospital/)  
-    Formula Student Germany 2016の大会期間中にホテルでバッテリーが炎上した．
 - [AGH Racing Team - FS Spain 2015 Formula Student Electric Car crash](https://youtu.be/cj85PD5A-hU)  
 
 ## その他
