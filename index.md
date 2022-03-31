@@ -127,7 +127,7 @@
 - [日立評論](https://www.hitachihyoron.com/jp/issue/index.html)
 - [パナソニック技報](https://www.panasonic.com/jp/corporate/technology-design/ptj/new.html)
 
-## 失敗から学ぶ
+## 先人から学ぶ
 - [名古屋工業大学人力飛行機研究会NIEWs - 試験飛行における事故について](http://blog.livedoor.jp/niews_nitech/archives/57302762.html)  
 - [Fire puts FSG team members in hospital](https://www.racetechmag.com/2016/08/fire-fsg-team-members-hospital/)  
     Formula Student Germany 2016の大会期間中にホテルでバッテリーが炎上した．
