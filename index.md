@@ -95,7 +95,7 @@
 - [電子工作専科 - Nucleoの電源系について](https://denshikousakusenka.jimdofree.com/%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89/stm32/nucleo%E3%81%AE%E9%9B%BB%E6%BA%90%E7%B3%BB/)
 
 ## 自動運転
-- [Tier IV Tech Blog](https://tech.tier4.jp/)  
+- [Tier IV Tech Blog](https://tieriv.medium.com/)  
 - [AMZ Driverless - Competitive against a human driver (YouTube)](https://youtu.be/aUQE5-6k6is)
 
 ## シミュレーター
