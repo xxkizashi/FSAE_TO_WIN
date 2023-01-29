@@ -93,6 +93,7 @@
     プリチャージ回路
 - [慶應義塾大学ロボット技術研究会 - NUCLEO-F446REの初期状態で使えないピンについて雑にまとめた](https://keiorogiken.wordpress.com/2018/12/08/nucleo-f446re/)
 - [電子工作専科 - Nucleoの電源系について](https://denshikousakusenka.jimdofree.com/%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89/stm32/nucleo%E3%81%AE%E9%9B%BB%E6%BA%90%E7%B3%BB/)
+- [電子工作専科のぐうたラボ - Nucleoの電源](http://denshikousakusenka.blog.fc2.com/blog-entry-32.html)
 
 ## 自動運転
 - [Tier IV Tech Blog](https://tieriv.medium.com/)  
